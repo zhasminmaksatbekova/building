@@ -1,0 +1,45 @@
+.rewiews{
+    background-color: #FFFFFF;
+}
+.rewiewers__title{
+    color: #000;
+}
+.block{
+    background: #F7F7F7;
+    width: 350px;
+    height: 260px;
+    margin: 54px 0 30px;
+}
+.rewiewers__text{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #999999;
+    max-width: 290px;
+    padding: 70px 30px 38px;
+}
+.rewiewers__name{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+    color: #000000;
+}
+.rewiewers__job{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 31px;
+    letter-spacing: 0.02em;
+    color: #F7654A;;
+}
+.rewiewers{
+    padding-bottom: 150px;
+    margin: 0 auto;
+    max-width: 350px;
+}

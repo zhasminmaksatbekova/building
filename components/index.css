@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500&family=Source+Sans+Pro:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+@import "./base.css";
+@import "./header.css";
+@import "./hero.css";
+@import "./years.css";
+@import "./projects.css";
+@import "./smart.css";
+@import "./building.css";
+@import "./image.css";
+@import "./questions.css";
+@import "./partners.css";
+@import "./rewiews.css";
+@import "./working.css";
+@import "./footer.css";
+@import "../media/index.css";

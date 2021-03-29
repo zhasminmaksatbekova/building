@@ -1,0 +1,28 @@
+.ques__title{
+    color: black;
+}
+.questions{
+    padding: 150px 0;
+}
+.question__ask{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #F7654A;
+    display: flex;
+    align-items: center;
+}
+.questions__text{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #999999;
+    max-width: 730px;
+}
+.question__svg{
+    margin-right: 15px;
+}

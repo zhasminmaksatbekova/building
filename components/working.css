@@ -1,0 +1,8 @@
+.working{
+    background: #F7654A;
+    padding: 30px 0 45px;
+}
+.working__row{
+    justify-content: space-between;
+    align-items: center;
+}

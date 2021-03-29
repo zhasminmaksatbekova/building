@@ -1,0 +1,41 @@
+.years{
+    margin-top: -150px;
+}
+.years__content{
+    display: flex;
+    flex-direction: column;
+    padding: 57px 0;
+}
+.years__row{
+    display: flex;
+    background-color: #F7F7F7;
+}
+.years__number{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 107px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #F7654A;
+}
+.years__year{  
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.years__place{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #999999;
+}

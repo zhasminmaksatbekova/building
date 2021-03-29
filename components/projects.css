@@ -1,0 +1,31 @@
+.projects{
+    background-color: #FFFFFF;
+}
+.projects__title{
+   color: #404149;
+   padding: 100px 0 60px 0;
+}
+.projects__line{
+    background-color: #F7654A;
+    width: 55px;
+    height: 6px;
+    margin: 45px 0 15px 0;
+}
+.projects__img--text{
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #404149;
+}
+.projects__text{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #999999;
+    width: 300px;
+    margin-bottom: 140px;
+}

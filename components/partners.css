@@ -1,0 +1,22 @@
+.partners{
+    background: #404149;
+    padding: 100px 0;
+    margin-bottom: 150px;
+}
+.partners__title{
+    color: #FFFFFF;
+    padding-bottom: 60px;
+}
+.swiper-pagination-bullets{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.swiper-pagination-bullet{
+    font-size: 15px;
+    color: #999999;
+}
+.swiper-pagination-bullet-active{
+    font-size: 16px;
+    color: #F7654A;
+}
